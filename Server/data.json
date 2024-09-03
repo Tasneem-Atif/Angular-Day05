@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "Book From Serve",
+      "price": 200,
+      "quantity": 400,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Pen From Server",
+      "price": 100,
+      "quantity": 300
+    },
+    {
+      "id": "3",
+      "name": "new product added",
+      "price": 66,
+      "quantity": 464
+    },
+    {
+      "id": "4",
+      "name": "Watch",
+      "price": 66,
+      "quantity": 464
+    },
+    {
+      "id": "5",
+      "name": "abc",
+      "price": 66,
+      "quantity": 464
+    },
+    {
+      "id": "6",
+      "name": "efg",
+      "price": 66,
+      "quantity": 464
+    }
+  ]
+}
